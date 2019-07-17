@@ -1,0 +1,8 @@
+numpy
+scipy
+pandas
+cython
+mpi4py
+python-igraph
+tqdm
+dendropy
